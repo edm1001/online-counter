@@ -1,3 +1,4 @@
 # Online Counter
 
-## This is a simple counter app that uses Javascript
+## Description
+- This is a simple counter app that uses Javascript
